@@ -1,0 +1,18 @@
+# Core dependencies
+opencv-python
+numpy
+cryptography
+pycryptodome
+Crypto
+matplotlib
+
+# Development dependencies
+pytest
+black
+flake8
+
+# Additional dependencies that might be useful
+pillow  # For additional image processing capabilities
+
+
+setuptools
